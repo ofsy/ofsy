@@ -1,6 +1,6 @@
 ## Project VCT 2023
 getwd()
-setwd("/Users/OFSy/Project/Side Project/VCT2023")
+setwd("....")
 
 ## Import File
 library(tidyverse)

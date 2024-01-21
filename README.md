@@ -13,16 +13,17 @@ Economics graduate with a keen interest in the diverse world of data
 
 ✨ A curated collection of my data-driven projects, reflecting my journey and growth
 Explore a variety of projects showcasing my expertise in:
-Spreadsheets
-Data Visualization
-SQL Databases
-R Programming
-Data Transformation
-Essential Statistics
-Machine Learning for Data Analysis
-Python Programming
-Essential Python for Data Analysts
-Dashboard Design with Looker
+
+- Spreadsheets
+- Data Visualization
+- SQL Databases
+- R Programming
+- Data Transformation
+- Essential Statistics
+- Machine Learning for Data Analysis
+- Python Programming
+- Essential Python for Data Analysts
+- Dashboard Design with Looker
  ** Skills and Expertise**
 
 Proficient in data manipulation and analysis using spreadsheets and SQL databases
